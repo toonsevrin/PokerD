@@ -1,4 +1,4 @@
-# Pokerd
+# PokerD
 This is the pokerd design doc without implementation
 
 Possible project names: pokerd.io, subitus.io, hodlem.io
