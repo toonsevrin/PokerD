@@ -16,3 +16,4 @@ All players have a hand, we just need to generate the community cards. Bob still
 
 * Zero-knowledge proof
 * https://en.wikipedia.org/wiki/Mental_poker
+* Requires commutative encryption
