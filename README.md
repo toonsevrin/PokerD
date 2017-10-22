@@ -14,3 +14,5 @@ Now Alice encrypts the other 50 cards with a second encryption and sends these t
 
 All players have a hand, we just need to generate the community cards. Bob still has 48 cards encrypted by alice, he can pick some of these and allow alice to decrypt them.
 
+* Zero-knowledge proof
+* https://en.wikipedia.org/wiki/Mental_poker
