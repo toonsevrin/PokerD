@@ -37,7 +37,7 @@ Colluding players can be an issue in poker, let's see how traditional sites miti
 ## Useful links
 * [Poker through MPC (Multi-Party Computation)](https://www.reddit.com/r/Bitcoin/comments/3xdoaf/how_to_use_bitcoin_to_play_decentralized_poker/)
 * [Lessons learned from decentralized game development](https://medium.com/@graycoding/lessons-learned-from-making-a-chess-game-for-ethereum-6917c01178b6)
-
+* [Blog about card crypto](https://blog.cryptographyengineering.com/2012/04/02/poker-is-hard-especially-for/)
 
 ## Alternatives
 * [Unclefinneys (the game itself is run by a server)](https://www.unclefinneys.com)
